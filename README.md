@@ -1,1 +1,1 @@
-# emoticonReact
+# Emotikon - zadání
